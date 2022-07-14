@@ -16,7 +16,7 @@ g.	A form
 I decided to simulate freelancing by building a website for my enviornmental science professor to use as a resource for students to prep for the midterm and in the future I will add more so that students can prepare for the final.
 This project has taught me alot about the inner workings of a website and building projects in the real world and hopefully I can build more projects in the future for clients.
 
-I piece of code that I am proud of is the table since it took me a while to figure out what kind of data I would like to show case.
+A piece of code that I am proud of is the table since it took me a while to figure out what kind of data I would like to show case.
 
 <table>
             <tr>
